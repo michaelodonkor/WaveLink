@@ -1,4 +1,4 @@
-body {	
+body {
     color: #616161;
     font-family: 'Muli', sans-serif;
     font-weight: 400;
@@ -22,7 +22,7 @@ h6 {
     line-height: 1.3;
     font-weight: 700;
     -webkit-transition: .5s;
-    transition: .5s; 
+    transition: .5s;
 	letter-spacing:0px;
 }
 h2{
@@ -37,7 +37,7 @@ a{
     transition: all 0.3s ease-out 0s;
 }
 a{
-	 color: #0C5ADB;
+	 color: #6200ff;
 }
 a:focus,
 .btn:focus {
@@ -89,7 +89,7 @@ ul {
     padding: 0px;
 }
 li {
-  
+
 }
 
 ul {
@@ -98,7 +98,7 @@ ul {
     padding: 0;
 }
 li {
- 
+
 }
 input:focus,
 button:focus
@@ -164,15 +164,15 @@ a,i, cite, em, var, address, dfn,ol,li,ul{
   letter-spacing: 0px;
 }
 
-.btn-primary {  
+.btn-primary {
   background-color: #e96e53;
   font-size: 14px;
   padding: 15px 28px;
-  border: 1px solid #0C5ADB;
+  border: 1px solid #6200ff;
   text-transform: uppercase;
   -webkit-transition: none;
   -moz-transition: none;
-  transition: none;  
+  transition: none;
   -webkit-transition: all 0.5s ease;
   -ms-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
@@ -181,12 +181,12 @@ a,i, cite, em, var, address, dfn,ol,li,ul{
 }
 .btn-primary:hover {
   background-color: #FFF;
-  color: #0C5ADB;
+  color: #6200ff;
   border: 1px solid transparent;
 }
 .btn-primary:focus {
   background-color: #FFF;
-  color: #0C5ADB;
+  color: #6200ff;
   border: 1px solid transparent;
 }
 .btn-secondary {
@@ -198,7 +198,7 @@ a,i, cite, em, var, address, dfn,ol,li,ul{
   border: 1px solid #232323;
   -webkit-transition: none;
   -moz-transition: none;
-  transition: none;  
+  transition: none;
   -webkit-transition: all 0.5s ease;
   -ms-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
