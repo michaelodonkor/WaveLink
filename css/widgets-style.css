@@ -85,7 +85,7 @@ Slick Slider
 .dreamit-slick-slider .hero-text-wrap .btn{
 	font-size: 17px;
 	color:#fff;
-	background: #6200ff;
+	background-image: linear-gradient(45deg, #8c00ff, #c800fa);
 	padding: 12px 32px;
 	-webkit-animation: 1s 2s fadeInUp both;
 	animation: 1s 2s fadeInUp both;
@@ -93,8 +93,8 @@ Slick Slider
 }
 
 .dreamit-slick-slider .hero-text-wrap .btn:hover{
-	background: #008a83;
-	border: 1px solid #008a83;
+	background-image: linear-gradient(45deg, #aa41ff, #d738ff);
+
 }
 
 .dreamit-slick-slider .slider-video-icon{

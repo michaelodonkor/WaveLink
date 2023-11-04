@@ -52,6 +52,10 @@ CSS INDEX
  Don't change any css from here. If you need to change, Please use child theme.
 ------------------------------------------*/
 
+.mobile_logo_area.d-sm-block.d-md-block.d-lg-none {
+    background: linear-gradient(45deg, #5400ff, #c800fa) !important;
+}
+
 html,
 body {}
 img {
@@ -1919,7 +1923,7 @@ a.comment-edit-link {
     position: relative;
 }
 .breadcumb-area:before {
-    background: rgb(77 59 111 / 33%);
+    background: linear-gradient(16deg, #1c0036bf, #d157ff61);
     position: absolute;
     top: 0;
     right: 0;
